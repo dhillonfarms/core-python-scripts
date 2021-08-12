@@ -1,4 +1,5 @@
 # Simple script to check whether two strings are anagrams
+# This comment is by KIRAN
 __author__='https://github.com/dhillonfarms'
 
 def check_anagram(s1,s2):
